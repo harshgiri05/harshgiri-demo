@@ -1,2 +1,2 @@
 # harshgiri-demo
-This is my first repository.
+This is harsh's first repository.
